@@ -23,6 +23,8 @@ Ao clicar em "Nova Execução", na tela de Hist[orico de Execuções em cada BOT
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/9ce89e4c-ae48-4e64-99b1-52b874ffcb25)
 Nesta tela, é possível observar que se o usuário em questão não tiver as credenciais válidas, não é possível prosseguir com a execução do BOT.
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/625fd3bc-9586-483e-84e3-422dabeccb98)
+Uma vez que o usuário é validado, ele é redirecionado para a tela de planilhas onde é possível remover planilhas e adicioná-las ao arrastar ou selecionar um arquivo. A partir daí, a execução pode ser realizada.
+
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/c7787fc5-276c-4e7f-8daa-dcc5c7d72d79)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/5d8c3fe7-025b-4d45-b05f-1b699f5d17b3)
 
