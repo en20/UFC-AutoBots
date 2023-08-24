@@ -1,5 +1,7 @@
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/abee8e28-0409-4ef9-ae77-4be8dd602ccd)
+Tela Inicial de Login e senha como foi solicitado. Para ter acesso à execução dos robôs, o usuário precisa digitar as credenciais corretas. Nesse caso deixei as credenciais como forma de "dica", caso forem testar a aplicação. Os dados para loginn foram mockados no código e não representam de forma alguma uma solução segura para definir quem pode acessar os robôs em uma aplicação real.
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/2e46c2e4-3536-4b54-a377-effdc901b7fe)
+Como mostrado na imagem, se por acaso as entradas forem diferente das requeridas, o sitema não deixa o usuário acessar.
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/17543587-dea2-4192-8f3f-108c199e59f8)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/0c5cef1b-40f6-434f-945b-2258ec44402f)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/f85d7ac7-53ca-41be-b4ae-dd13c66eb7fa)
