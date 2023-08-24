@@ -14,6 +14,8 @@ Dashboard Principal do programa, onde se encontram Navbar com as opções de red
 
 
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/0c5cef1b-40f6-434f-945b-2258ec44402f)
+Assim que clicamos em qualquer Bot [A,B,C], somos redirecionados para o histórico de execuções de cada robô, em cada execução, ao clicar em "Visualizar", é possível entrar em cada uma dessas execuções do robô e ver os detalhes da execução escolhida. Também é possivel observar que existem 2 botões na parte inferior direita que funcionam da seguinte maneira: O botão "Nova Execução" redireciona o usuário para a tela de nova execução, e o botão "Voltar", volta para a dashboard de seleção de robôs.
+
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/f85d7ac7-53ca-41be-b4ae-dd13c66eb7fa)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/5d0269d3-f8b4-4ecc-9ec5-868831dfb245)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/9ce89e4c-ae48-4e64-99b1-52b874ffcb25)
