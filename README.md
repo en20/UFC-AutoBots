@@ -19,6 +19,7 @@ Assim que clicamos em qualquer Bot [A,B,C], somos redirecionados para o históri
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/f85d7ac7-53ca-41be-b4ae-dd13c66eb7fa)
 Ao clicar em "Visualizar" é para essa tela que o usuário é redirecionado, onde se encontrarm os detalhes de uma execução em particular. *Detalhe: essa tela se refere ao BOT A, porém, todos os outros Bots reproduzem o mesmo comportamento*
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/5d0269d3-f8b4-4ecc-9ec5-868831dfb245)
+Ao clicar em "Nova Execução", na tela de Hist[orico de Execuções em cada BOT, o usuário é redirecionado para essa tela, onde para executar de fato o Robô, o usuário precisa confirmar as suas credenciais de acesso, pois os robôs também têm acesso a outros sistemas, então é necessário um usuário válido.
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/9ce89e4c-ae48-4e64-99b1-52b874ffcb25)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/625fd3bc-9586-483e-84e3-422dabeccb98)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/c7787fc5-276c-4e7f-8daa-dcc5c7d72d79)
