@@ -26,7 +26,9 @@ Nesta tela, é possível observar que se o usuário em questão não tiver as cr
 Uma vez que o usuário é validado, ele é redirecionado para a tela de planilhas onde é possível remover planilhas e adicioná-las ao arrastar ou selecionar um arquivo. A partir daí, a execução pode ser realizada.
 
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/c7787fc5-276c-4e7f-8daa-dcc5c7d72d79)
+Um campo de entrada de texto onde os usuários devem inserir o endereço de e-mail associado à sua conta. ao apertar enviar, o ussuario é redirecionado para a tela de alterar a a senha.
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/5d8c3fe7-025b-4d45-b05f-1b699f5d17b3)
+Uma vez aunteticado o, o usuário é redirecionado para essa tela em questão, onde ele pode alterar sua senha atual, quando confirmada, ele volta para a tela inicial de LOGIN.
 
 
 
