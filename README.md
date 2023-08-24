@@ -1,17 +1,14 @@
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/abee8e28-0409-4ef9-ae77-4be8dd602ccd)
-
 Tela Inicial de Login e senha como foi solicitado. Para ter acesso à execução dos robôs, o usuário precisa digitar as credenciais corretas. Nesse caso deixei as credenciais como forma de "dica", caso forem testar a aplicação. Os dados para loginn foram mockados no código e não representam de forma alguma uma solução segura para definir quem pode acessar os robôs em uma aplicação real. Nessa tela também se encontra a barra de navegação apenas com a logo UFC - AutoBots.
 
 
 
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/2e46c2e4-3536-4b54-a377-effdc901b7fe)
-
 Como mostrado na imagem, se por acaso as entradas forem diferente das requeridas, o sitema não deixa o usuário acessar.
 
 
 
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/17543587-dea2-4192-8f3f-108c199e59f8)
-
 Dashboard Principal do programa, onde se encontram Navbar com as opções de redefinição da senha, e encerrar sessão, diferente da navbar inicialmente vista na tela de login. Nessa dashboard, tabém é possível observar a seleção dos robôs, que nos leva para as páginas de cada robô. O esquema de selção foi feito no esilo "carrosel", ou seja, o usuário pode navegar livremente de forma circular entre os robôs e, em qualquer instância do carrosel, escolher qualquer BOT e entrar na área do histórico de execuções
 
 
