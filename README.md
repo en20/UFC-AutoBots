@@ -21,6 +21,7 @@ Ao clicar em "Visualizar" é para essa tela que o usuário é redirecionado, ond
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/5d0269d3-f8b4-4ecc-9ec5-868831dfb245)
 Ao clicar em "Nova Execução", na tela de Hist[orico de Execuções em cada BOT, o usuário é redirecionado para essa tela, onde para executar de fato o Robô, o usuário precisa confirmar as suas credenciais de acesso, pois os robôs também têm acesso a outros sistemas, então é necessário um usuário válido.
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/9ce89e4c-ae48-4e64-99b1-52b874ffcb25)
+Nesta tela, é possível observar que se o usuário em questão não tiver as credenciais válidas, não é possível prosseguir com a execução do BOT.
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/625fd3bc-9586-483e-84e3-422dabeccb98)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/c7787fc5-276c-4e7f-8daa-dcc5c7d72d79)
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/5d8c3fe7-025b-4d45-b05f-1b699f5d17b3)
