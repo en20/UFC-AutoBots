@@ -9,7 +9,7 @@ Como mostrado na imagem, se por acaso as entradas forem diferente das requeridas
 
 
 ![image](https://github.com/en20/UFC-AutoBots/assets/101259278/17543587-dea2-4192-8f3f-108c199e59f8)
-Dashboard Principal do programa, onde se encontram Navbar com as opções de redefinição da senha, e encerrar sessão, diferente da navbar inicialmente vista na tela de login. Nessa dashboard, tabém é possível observar a seleção dos robôs, que nos leva para as páginas de cada robô. O esquema de selção foi feito no esilo "carrosel", ou seja, o usuário pode navegar livremente de forma circular entre os robôs e, em qualquer instância do carrosel, escolher qualquer BOT e entrar na área do histórico de execuções
+Dashboard Principal do programa, onde se encontram Navbar com as opções de redefinição da senha, e encerrar sessão, diferente da navbar inicialmente vista na tela de login. Nessa dashboard, também é possível observar a seleção dos robôs, que nos leva para as páginas de cada robô. O esquema de seleção foi feito no estilo "carrosel", ou seja, o usuário pode navegar livremente de forma circular entre os robôs e, em qualquer instância do carrosel, escolher qualquer BOT e entrar na área do histórico de execuções do mesmo.
 
 
 
